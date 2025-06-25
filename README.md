@@ -26,3 +26,6 @@ A collection of Python applications and utilities.
 
 ## Contributing
 Feel free to contribute by adding new Python projects or improving existing ones!
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
